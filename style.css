@@ -1,0 +1,15 @@
+@media(max-width: 768px) {
+    .intro-text h2 {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .project {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .project-detail {
+        text-align: center;
+    }
+}
